@@ -11,7 +11,7 @@
 ### [163邮箱](https://mail.163.com/)  
 ### [新浪新闻](https://news.sina.com.cn/)  
 ## 军事介绍
-
+### [请点击右边文字以进入“军事介绍”分页](zzh-andy-jsjs.github.io) 
 ### 一、五代机
 
 #### 第一名. F-22 战斗机
