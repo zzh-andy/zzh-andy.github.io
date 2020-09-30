@@ -11,6 +11,6 @@
 ### [新浪新闻](https://news.sina.com.cn/)  
 
 ## 军事介绍
-### [请点击此文字以进入“军事介绍”分页](https://zzh-andy.github.io/second/index.txt) 
+### [请点击此文字以进入“军事介绍”分页](https://zzh-andy.github.io/second/index.md) 
  
 
