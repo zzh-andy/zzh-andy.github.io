@@ -9,6 +9,8 @@
 ### [天气网](http://www.tianqi.com/ "查询天气就点它")  
 ### [163邮箱](https://mail.163.com/ "去自己的邮箱？就是它")  
 ### [新浪新闻](https://news.sina.com.cn/ "新闻没看够？再点点它")  
+### [4399](https://4399.com/ "4399")  
+### [7k7k](https://7k7k.com/ "7k7k")  
 
 ## 军事介绍
 ### [请点击此文字以进入“军事介绍”分页](https://zzh-andy.github.io/second/jsjssl.md/ "前往军事分页") 
