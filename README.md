@@ -12,8 +12,8 @@
 ## [4399](http://4399.com/ "4399")  
 ## [7k7k](http://7k7k.com/ "7k7k")  
 ## [部落冲突】
-## [7k7k](http://clashofstats.com/ "查询玩家信息")  
-## [7k7k](http://cocservice.top/ "游戏信息大全")  
+## [clash of stats](http://clashofstats.com/ "查询玩家信息")  
+## [coc service](http://cocservice.top/ "游戏信息大全")  
 
 ## 军事介绍
 ### [请点击此文字以进入“军事介绍”分页](https://zzh-andy.github.io/second/jsjssl.md/ "前往军事分页") 
