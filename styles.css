@@ -1,0 +1,33 @@
+/* styles.css */
+
+.banner {
+  position: relative;
+  width: 100%;
+}
+
+#banner-image {
+  width: 100%;
+  height: auto;
+}
+
+.like-section {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
+
+#like-button {
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.tooltip {
+  display: none;
+  position: absolute;
+  top: -30px;
+  right: 0;
+  background-color: #333;
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+}
