@@ -8,7 +8,7 @@
 </head>
 <body>
   <div class="banner">
-    <img src="path_to_your_image.jpg" alt="Banner Image" id="banner-image">
+    <img src="R-C.jpg" alt="Banner Image" id="banner-image">
     <div class="like-section">
       <span id="like-count">0</span>
       <button id="like-button" onclick="likeImage()">👍</button>
