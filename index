@@ -12,7 +12,7 @@
     <div class="like-section">
       <span id="like-count">0</span>
       <button id="like-button" onclick="likeImage()">👍</button>
-      <span id="like-tooltip" class="tooltip">您喜欢吗？</span>
+      <span id="like-tooltip" class="tooltip">喜欢吗？</span>
     </div>
   </div>
   
