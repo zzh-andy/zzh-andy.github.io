@@ -8,5 +8,6 @@ body, html {
 }
 
 canvas {
-    border: 1px solid #fff;
+    background-color: #111;
+    display: block;
 }
