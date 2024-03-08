@@ -1,19 +1,12 @@
-.banner {
-  position: relative;
-  text-align: center;
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
 }
 
-#banner-image {
-  width: 100%;
-}
-
-.like-section {
-  position: absolute;
-  bottom: 10px;
-  left: 50%;
-  transform: translateX(-50%);
-}
-
-#like-count {
-  margin-right: 5px;
+canvas {
+    border: 1px solid #fff;
 }
